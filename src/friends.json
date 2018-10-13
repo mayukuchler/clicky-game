@@ -1,0 +1,62 @@
+[
+    {
+      "id": 1,
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTqeSgs_wcpIkMCbjrerpU2YO87_EWXL6UIk1DdxG7snKOoBGjTug",
+      "clicked": false
+    },
+    {
+      "id": 2,
+      "image": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f6/Friendsphoebe.jpg/220px-Friendsphoebe.jpg",
+      "clicked": false
+    },
+    {
+      "id": 3,
+      "image": "https://imgix.bustle.com/uploads/image/2017/8/22/4dbabff7-c8bd-4817-abff-a413fd946e49-joey-tribbiani-pineapple.jpg?w=970&h=582&fit=crop&crop=faces&auto=format&q=70",
+      "clicked": false
+    },
+    {
+      "id": 4,
+      "image": "https://vignette.wikia.nocookie.net/friends/images/2/2f/Monica_Geller-Bing_Season_10.png/revision/latest?cb=20180426182234",
+      "clicked": false
+    },
+    {
+      "id": 5,
+      "image": "http://www.comedycentral.co.uk/sites/default/files/styles/image-w-520-h-520-scale/public/cc_uk/galleries/large/2016/06/30/09_ross_fuckboy.png?itok=2zxxVW7k",
+      "clicked": false
+    },
+    {
+      "id": 6,
+      "image": "https://pixel.nymag.com/imgs/daily/vulture/2017/03/30/30-chandler-bing.w330.h330.jpg",
+      "clicked": false
+    },
+    {
+      "id": 7,
+      "image": "http://www.comedycentral.co.uk/sites/default/files/styles/image-w-520-h-520-scale/public/cc_uk/galleries/large/2016/12/15/03_8.png?itok=C1x4-LR7",
+      "clicked": false
+    },
+    {
+      "id": 8,
+      "image": "https://media.thetab.com/blogs.dir/279/files/2017/09/janice.jpg",
+      "clicked": false
+    },
+    {
+      "id": 9,
+      "image": "https://vignette.wikia.nocookie.net/friends/images/8/8f/EmilyWaltham.png/revision/latest?cb=20180214125436",
+      "clicked": false
+    },
+    {
+      "id": 10,
+      "image": "https://vignette.wikia.nocookie.net/friends/images/f/f3/Richard_Burke.jpg/revision/latest?cb=20180321212723",
+      "clicked": false
+    },
+    {
+      "id": 11,
+      "image": "https://metrouk2.files.wordpress.com/2014/09/gunther-1.jpg?quality=80&strip=all",
+      "clicked": false
+    },
+    {
+      "id": 12,
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5UuhOTtO-KXgFiwLdqe8JLFFNMfkEGZqNzsqt4k_3uitpK0IxNA",
+      "clicked": false
+    }
+  ]
